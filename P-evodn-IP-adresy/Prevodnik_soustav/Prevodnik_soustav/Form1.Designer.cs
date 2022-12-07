@@ -51,10 +51,10 @@
             "2",
             "10",
             "16"});
-            this.comboBox1.Location = new System.Drawing.Point(93, 47);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Location = new System.Drawing.Point(347, 33);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(199, 24);
+            this.comboBox1.Size = new System.Drawing.Size(155, 24);
             this.comboBox1.TabIndex = 0;
             this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
@@ -66,16 +66,16 @@
             "2",
             "10",
             "16"});
-            this.comboBox2.Location = new System.Drawing.Point(421, 47);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox2.Location = new System.Drawing.Point(578, 33);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(199, 24);
+            this.comboBox2.Size = new System.Drawing.Size(141, 24);
             this.comboBox2.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(164, 278);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Location = new System.Drawing.Point(199, 166);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(420, 44);
             this.button1.TabIndex = 2;
@@ -85,16 +85,16 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(105, 377);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox2.Location = new System.Drawing.Point(46, 266);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(525, 22);
+            this.textBox2.Size = new System.Drawing.Size(682, 22);
             this.textBox2.TabIndex = 4;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(63, 50);
+            this.label1.Location = new System.Drawing.Point(318, 36);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(21, 17);
@@ -104,7 +104,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(379, 50);
+            this.label2.Location = new System.Drawing.Point(536, 36);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(33, 17);
@@ -114,17 +114,17 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(100, 195);
+            this.label3.Location = new System.Drawing.Point(43, 85);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(327, 17);
+            this.label3.Size = new System.Drawing.Size(205, 17);
             this.label3.TabIndex = 7;
-            this.label3.Text = "Zadej IPA v desítkové soustavě (192.168.130.240)\r\n";
+            this.label3.Text = "Zadej IPA v desítkové soustavě\r\n";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(292, 357);
+            this.label4.Location = new System.Drawing.Point(344, 245);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(130, 17);
@@ -133,32 +133,32 @@
             // 
             // maskedTextBox1
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(107, 229);
-            this.maskedTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.maskedTextBox1.Location = new System.Drawing.Point(46, 106);
+            this.maskedTextBox1.Margin = new System.Windows.Forms.Padding(4);
             this.maskedTextBox1.Mask = "00000000.00000000.00000000.00000000";
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(524, 22);
+            this.maskedTextBox1.Size = new System.Drawing.Size(682, 22);
             this.maskedTextBox1.TabIndex = 9;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(104, 195);
+            this.label5.Location = new System.Drawing.Point(43, 85);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(475, 17);
+            this.label5.Size = new System.Drawing.Size(201, 17);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Zadej IPA v dvojkové soustavě (11000111 01100101 01101001 1101001)";
+            this.label5.Text = "Zadej IPA v dvojkové soustavě";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(102, 195);
+            this.label6.Location = new System.Drawing.Point(43, 85);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(304, 17);
+            this.label6.Size = new System.Drawing.Size(228, 17);
             this.label6.TabIndex = 12;
-            this.label6.Text = "Zadej IPA v hexadecimální soustavě (ff.f5.a3.9)\r\n";
+            this.label6.Text = "Zadej IPA v šestnáctkové soustavě\r\n";
             // 
             // comboBox3
             // 
@@ -167,16 +167,16 @@
             this.comboBox3.Items.AddRange(new object[] {
             "IPv4",
             "IPv6"});
-            this.comboBox3.Location = new System.Drawing.Point(319, 125);
+            this.comboBox3.Location = new System.Drawing.Point(156, 33);
             this.comboBox3.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(143, 24);
+            this.comboBox3.Size = new System.Drawing.Size(118, 24);
             this.comboBox3.TabIndex = 14;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(206, 128);
+            this.label7.Location = new System.Drawing.Point(43, 36);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(106, 17);
             this.label7.TabIndex = 15;
@@ -186,7 +186,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1657, 458);
+            this.ClientSize = new System.Drawing.Size(783, 341);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.comboBox3);
             this.Controls.Add(this.label6);
@@ -200,7 +200,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
