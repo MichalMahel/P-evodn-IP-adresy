@@ -1,0 +1,4 @@
+﻿Zahájilo se sestavování...
+1>------ Sestavování zahájeno: Projekt: Prevodnik_soustav, Konfigurace: Debug Any CPU ------
+1>  Prevodnik_soustav -> C:\Users\micha\Source\Repos\P-evodn-IP-adresy\Prevodnik_soustav\Prevodnik_soustav\bin\Debug\Prevodnik_soustav.exe
+========== Sestavení: 1 úspěšně, 0 se nezdařilo, 0 aktuální, 0 přeskočeno ==========
