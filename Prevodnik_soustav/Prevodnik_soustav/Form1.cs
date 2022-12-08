@@ -20,7 +20,6 @@ namespace Prevodnik_soustav
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //textBox1.Visible = false;
             label3.Visible = false;
             label5.Visible = false;
             label6.Visible = false;
@@ -137,13 +136,10 @@ namespace Prevodnik_soustav
                 // Nefunguje mi to a nevim proč
                 //foreach (string cis in list)
                 //{
-                //    string vys1 = Convert.ToString(Convert.ToInt32(cis, Z), 10);
-                //    textBox1.Text = vys1.ToString();
-                //    int vys = Convert.ToInt32(textBox1.Text);
+                //    int vys = Convert.ToInt32(cis, Z);
                 //    if (vys > 255 || vys < 0)
                 //    {
-                //        MessageBox.Show("Blbe");
-                //        Severní_vitr++;
+                //        Pomocna_promena_pro_osetreni_cisel++;
                 //    }
                 //}
             }
@@ -159,13 +155,10 @@ namespace Prevodnik_soustav
                 // Nefunguje mi to a nevim proč
                 //foreach (string cis in list)
                 //{
-                //    string vys1 = Convert.ToString(Convert.ToInt32(cis, Z), 10);
-                //    textBox1.Text = vys1.ToString();
-                //    int vys = Convert.ToInt32(textBox1.Text);
+                //    int vys = Convert.ToInt32(cis, Z);
                 //    if (vys > 65535 || vys < 0)
                 //    {
-                //        MessageBox.Show("Vole");
-                //        Severní_vitr++;
+                //        Pomocna_promena_pro_osetreni_cisel++;
                 //    }
                 //}
             }
