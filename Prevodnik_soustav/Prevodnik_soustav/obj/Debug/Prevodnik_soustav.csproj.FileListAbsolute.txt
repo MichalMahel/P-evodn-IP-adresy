@@ -59,3 +59,14 @@ C:\Users\micha\Desktop\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_s
 C:\Users\micha\Desktop\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.csproj.CoreCompileInputs.cache
 C:\Users\micha\Desktop\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.exe
 C:\Users\micha\Desktop\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.pdb
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\bin\Debug\Prevodnik_soustav.exe.config
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\bin\Debug\Prevodnik_soustav.exe
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\bin\Debug\Prevodnik_soustav.pdb
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.csproj.AssemblyReference.cache
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.csproj.SuggestedBindingRedirects.cache
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.Form1.resources
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.Properties.Resources.resources
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.csproj.GenerateResource.cache
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.csproj.CoreCompileInputs.cache
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.exe
+G:\ITA3\POS\Prevodnik_IP_adresy-main\Prevodnik_soustav\Prevodnik_soustav\obj\Debug\Prevodnik_soustav.pdb

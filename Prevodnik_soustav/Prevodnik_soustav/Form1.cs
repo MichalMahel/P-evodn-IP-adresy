@@ -59,7 +59,7 @@ namespace Prevodnik_soustav
                             label5.Visible = true;
                             label3.Visible = false;
                             label6.Visible = false;
-                            maskedTextBox1.Mask = "000000000000:000000000000:000000000000:000000000000:000000000000:000000000000";
+                            maskedTextBox1.Mask = "0000000000000000:0000000000000000:0000000000000000:0000000000000000:0000000000000000:0000000000000000";
                             break;
                         case 1:
                             label5.Visible = false;
